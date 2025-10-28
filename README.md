@@ -18,7 +18,7 @@ Visualizing churn distribution among customers.
 Analyzing features like senior citizen status, tenure, contract type, and payment methods in relation to churn.
 Highlighting differences in churn rates across various customer segments.
 
-Basic Findings:
+Findings from EDA:
 Senior citizens and customers on month-to-month contracts are more likely to churn.
 Long-term customers tend to stay, while new users have a higher churn rate.
 Users with yearly contracts are less likely to churn compared to those with monthly contracts.
